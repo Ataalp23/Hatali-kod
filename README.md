@@ -1,0 +1,2 @@
+# Hatali-kod
+hatali
